@@ -1,1 +1,0 @@
- print(my_list.index(a),my_list.index(b))
