@@ -207,10 +207,3 @@ my_function()
 print(f"python is {x}")
 """
 
-
-def my_function(n):
-    if(n>5):
-        return 0
-    else:
-        print(n)
-my_function(6)    
